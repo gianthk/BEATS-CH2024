@@ -10,7 +10,7 @@ Image processing steps are described in the [Image processing notebooks](./noteb
 - Code licence: MIT
 - Narrative licence: CC-BY
 - Created on:  05.05.2024
-- Last update: 05.05.2024
+- Last update: 19.05.2024
 
 **Synchrotron microCT scan information:**
 
@@ -22,16 +22,26 @@ Image processing steps are described in the [Image processing notebooks](./noteb
 | Egyptian blue          |                                                     |
 |:-----------------------|:----------------------------------------------------|
 | Scan name              |                                                     |
-| Energy                 | xx keV                                              |
-| Detector               | Det 3 (mono microscope)                             |
+| Energy                 | 45 keV                                              |
+| Detector               | Det 2 (Hasselblad system)                           |
 | Camera                 | PCO.edge 5.5                                        |
-| Voxel size             | x.x um                                              |
-| SDD                    | xx mm                                               |
+| Voxel size             | 6.5 um                                              |
+| SDD                    | 300 mm                                              |
 | Preliminary operations | ROI crop; 8-bit convert                             |
 |                        | k-means segmentation                                |
 |                        | isolate large pores                                 |
 |                        | calculate pore Mas. Feret diameter                  |
 |                        | calculate local thickness map of small pore network |
+
+| Byzantine glass        |                                |
+|:-----------------------|:-------------------------------|
+| Scan name              |                                |
+| Energy                 | 20 keV                         |
+| Detector               | Det 2 (Hasselblad system)      |
+| Camera                 | ORYX FLIR 7.1 MP GigE          |
+| Voxel size             | 4.5 um                         |
+| SDD                    | 250 mm                         |
+| Preliminary operations | 8-bit convert; stack stitching |
 
 
 ---
