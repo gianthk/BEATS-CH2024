@@ -14,11 +14,25 @@ Image processing steps are described in the [Image processing notebooks](./noteb
 
 **Synchrotron microCT scan information:**
 
-|Scan parameters|                     |
-|:-|:--------------------|
-|Beamline| ID10-BEATS @ SESAME |
-|Beamtime| In-House research   |
-|Samples| xxx                 |
+| Beamline information |                     |
+|:---------------------|:--------------------|
+| Beamline             | ID10-BEATS @ SESAME |
+| Beamtime             | In-House research   |
+
+| Egyptian blue          |                                                     |
+|:-----------------------|:----------------------------------------------------|
+| Scan name              |                                                     |
+| Energy                 | xx keV                                              |
+| Detector               | Det 3 (mono microscope)                             |
+| Camera                 | PCO.edge 5.5                                        |
+| Voxel size             | x.x um                                              |
+| SDD                    | xx mm                                               |
+| Preliminary operations | ROI crop; 8-bit convert                             |
+|                        | k-means segmentation                                |
+|                        | isolate large pores                                 |
+|                        | calculate pore Mas. Feret diameter                  |
+|                        | calculate local thickness map of small pore network |
+
 
 ---
 ## Acknowledgements
