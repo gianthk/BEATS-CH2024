@@ -1,5 +1,7 @@
-numpy
-matplotlib
-scipy
-scikit-image
 dxchange
+matplotlib
+numpy
+opencv-python
+scikit-image
+scipy
+tifffile
