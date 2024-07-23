@@ -15,8 +15,8 @@ All pipelines can be found in the [Image processing notebooks](./notebooks) fold
 | Notebook                    | Description             | Binder URL |
 |:----------------------------|:------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------|
 | **BEATS_recon_Roman_glass.ipynb**       | Phase-contrast SXCT reconstruction pipeline | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gianthk/BEATS-CH2024/HEAD?labpath=notebooks%2FBEATS_recon_Roman_glass.ipynb) |
-| **BEATS_recon-phase.ipynb** | Phase retrieval         | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SESAME-Synchrotron/BEATS_recon/HEAD?labpath=BEATS_recon-phase.ipynb) |
-| **convert360to180.ipynb** | Extended field-of-view  | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SESAME-Synchrotron/BEATS_recon/HEAD?labpath=convert360to180.ipynb) |
+| **BEATS_image_filtering_pipeline.ipynb** | Pre-filtering for easier segmentation of large 3D volume |  |
+| **BEATS_egyptian_blue_pore_size.ipynb** | Quantitative analysis of porous material |  |
 
 
 ## Synchrotron X-ray micro Computed Tomography scan information
