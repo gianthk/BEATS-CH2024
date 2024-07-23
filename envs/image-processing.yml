@@ -1,0 +1,16 @@
+name: image-processing
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - dxchange
+  - pandas
+  - scipy
+  - scikit-image
+  - tifffile
+  - pypng
+  - matplotlib
+  - pip
+  - pip:
+      - opencv-python
