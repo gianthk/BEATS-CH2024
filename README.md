@@ -58,4 +58,4 @@ The reconstruction pipeline relies on [`TomoPy`](https://tomopy.readthedocs.io/e
 
 ### 3D image processing
 
-A minimal list of dependencies for 3D image processing in Python can be found [here]().
+A minimal list of dependencies for 3D image processing in Python can be found [here](envs/image-processing.yml).
