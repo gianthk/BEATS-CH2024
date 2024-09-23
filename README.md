@@ -16,7 +16,7 @@ All pipelines can be found in the [Image processing notebooks](./notebooks) fold
 |:----------------------------|:------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------|
 | **BEATS_recon_Roman_glass.ipynb**       | Phase-contrast SXCT reconstruction pipeline | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gianthk/BEATS-CH2024/HEAD?labpath=notebooks%2FBEATS_recon_Roman_glass.ipynb) |
 | **BEATS_image_filtering_pipeline.ipynb** | Image filtering facilitating segmentation of large 3D volume | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gianthk/BEATS-CH2024/HEAD?labpath=notebooks%2FBEATS_image_filtering_pipeline.ipynb) |
-| **BEATS_egyptian_blue_pore_size.ipynb** | Plot and visualize results from analysis of porous material | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gianthk/BEATS-CH2024/49b6a40017233d3d4f3d572149d0ae72c627a9e4?urlpath=lab%2Ftree%2Fnotebooks%2FBEATS_egyptian_blue_pore_size.ipynb) |
+| **BEATS_egyptian_blue_pore_size.ipynb** | Plot and visualize results from analysis of porous material | [![Binder]([https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gianthk/BEATS-CH2024/49b6a40017233d3d4f3d572149d0ae72c627a9e4?urlpath=lab%2Ftree%2Fnotebooks%2FBEATS_egyptian_blue_pore_size.ipynb](https://mybinder.org/v2/gh/gianthk/BEATS-CH2024/HEAD?labpath=notebooks%2FBEATS_egyptian_blue_pore_size.ipynb)) |
 
 
 ## Synchrotron X-ray micro Computed Tomography scan information
