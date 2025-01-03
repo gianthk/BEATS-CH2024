@@ -9,7 +9,7 @@ All pipelines can be found in the [Image processing notebooks](./notebooks) fold
 - Code licence: MIT
 - Narrative licence: CC-BY
 - Created on:  05.05.2024
-- Last update: 23.07.2024
+- Last update: 03.01.2025
 
 ## Pipelines
 | Notebook                    | Description             | Binder URL |
@@ -19,12 +19,20 @@ All pipelines can be found in the [Image processing notebooks](./notebooks) fold
 | **BEATS_egyptian_blue_pore_size.ipynb** | Plot and visualize results from analysis of porous material | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/gianthk/BEATS-CH2024/5f2578d3fc41c8ca5f1adbd4553469ffeb56d827?urlpath=lab%2Ftree%2Fnotebooks%2FBEATS_egyptian_blue_pore_size.ipynb) |
 
 
-## Synchrotron X-ray micro Computed Tomography scan information
+## Synchrotron X-ray micro Computed Tomography scans
 
 | Beamline information |                     |
 |:---------------------|:--------------------|
 | Beamline             | [ID10-BEATS@SESAME](https://www.sesame.org.jo/beamlines/beats) |
 | Beamtime             | In-House research   |
+
+- The underlying data for this submission is propertary and subject to embargo according to SESAME's data policy.
+- The pipeline for reconstruction of phase-contrast SXCT images can be reproduced using the following open-source dataset from SESAME ID10-BEATS.
+
+| Dataset name                | Description             | DOI |
+|:----------------------------|:------------------------|:-----------|
+| `bee_yazeed-20231001T170032.h5` | SXCT scan of a wasp performed at beamline ID10-BEATS of SESAME | 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10075277.svg)](https://doi.org/10.5281/zenodo.10075277) |
 
 ### Sample and scan settings
 
