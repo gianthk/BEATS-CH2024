@@ -9,7 +9,7 @@
 
 ## Datasets
 
-- The underlying data for this submission is propertary and subject to embargo according to [SESAME's data policy](https://www.sesame.org.jo/for-users/user-guide/sesame-experimental-data-management-policy).
+- The underlying data for this submission is proprietary and subject to embargo according to [SESAME's data policy](https://www.sesame.org.jo/for-users/user-guide/sesame-experimental-data-management-policy).
 - The pipeline for reconstruction of phase-contrast SXCT images can be reproduced using the following open-source dataset from SESAME ID10-BEATS.
 
 | Dataset name                | Description             | DOI        |
