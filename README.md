@@ -3,7 +3,8 @@
 CT reconstruction and image processing pipelines for cultural heritage Synchrotron X-ray Computed Tomography (SXCT) scans at beamline [ID10-BEATS](https://www.sesame.org.jo/beamlines/beats) of SESAME.
 All pipelines can be found in the [Image processing notebooks](./notebooks) folder.
 
-[![GitHub license](https://img.shields.io/github/license/gianthk/BEATS-CH2024)](https://github.com/gianthk/BEATS-CH2024/blob/master/LICENSE)
+[![GitHub license](https://img.shields.io/github/license/gianthk/BEATS-CH2024)](https://github.com/gianthk/BEATS-CH2024/blob/master/LICENSE) 
+[![DOI](https://zenodo.org/badge/796287736.svg)](https://doi.org/10.5281/zenodo.14592120)
 
 - By [Gianluca Iori](https://github.com/gianthk), [Philipp Hans](https://github.com/phlpphns), 2024
 - Code licence: MIT
