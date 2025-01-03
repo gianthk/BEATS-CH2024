@@ -1,0 +1,108 @@
+# This CITATION.cff reference content was generated from Zotero.
+references:
+  - title: >-
+      Non-Destructive Examination of Ancient Vitreous Materials from Southwest Asia: Synchrotron Computed Tomography at the Beats Beamline of Sesame
+    abstract: |
+      The analysis of archaeological objects poses a set of challenges related to the fragility and uniqueness of the material and requires special non-invasive techniques. This article presents applications of Synchrotron X-ray Computed Tomography (SXCT) on archaeological vitreous materials, namely glass, faience, and Egyptian blue. Using five different case studies, we provide protocols developed at the beamline ID10-BEATS of SESAME (Jordan) to understand raw material, production, and degradation of vitreous assemblages from sub-mm to several cm in size. The use of high-resolution 3-dimensional X-ray imaging combined with phase-contrast generation allows to identify and differentiate ancient faience and pigment production technologies, quantify the severity and microstructure of glass corrosion, and assess the fracture and mechanical fragility of large artifacts and assemblies such as mosaics. The combination of SXCT with synchrotron X-ray fluorescence mapping and X-ray absorption near edge structure allows to examine complementary structural and chemical data of unique examples of the Southwest Asian cultural heritage. The availability of a SXCT facility at the heart of Southwest Asia facilitates and enhances the non-destructive examination and conservation of ancient vitreous materials of the region, proving the relevance of the technique for archaeologists, museums, and cultural heritage specialists.
+    type: preprint
+    database: papers.ssrn.com
+    date-accessed: 2025-01-03T14:37:09Z
+    languages: 
+      - en
+    repository: Social Science Research Network
+    url: https://papers.ssrn.com/abstract=4989620
+    keywords: 
+      - Chemical mapping
+      - Faience
+      - glass
+      - Phase-contrast imaging
+      - Synchrotron radiation
+      - X-ray tomography
+    authors: 
+      - family-names: Iori
+        given-names: Gianluca
+      - family-names: Hans
+        given-names: Philipp
+      - family-names: Stucchi
+        given-names: Neva Maria Elisabetta
+      - family-names: Khan
+        given-names: Latif U.
+      - family-names: Saadaldin
+        given-names: Abdellatif
+      - family-names: Possenti
+        given-names: Elena
+      - family-names: Franceschin
+        given-names: Giulia
+      - family-names: Al Khasoneh
+        given-names: Samah
+      - family-names: Bonora
+        given-names: Gian Luca
+      - family-names: Dardeniz
+        given-names: Gonca
+    editors: 
+      - family-names: Iori
+        given-names: Gianluca
+      - family-names: Hans
+        given-names: Philipp
+      - family-names: Stucchi
+        given-names: Neva Maria Elisabetta
+      - family-names: Khan
+        given-names: Latif U.
+      - family-names: Saadaldin
+        given-names: Abdellatif
+      - family-names: Possenti
+        given-names: Elena
+      - family-names: Franceschin
+        given-names: Giulia
+      - family-names: Al Khasoneh
+        given-names: Samah
+      - family-names: Bonora
+        given-names: Gian Luca
+      - family-names: Dardeniz
+        given-names: Gonca
+    recipients: 
+      - family-names: Iori
+        given-names: Gianluca
+      - family-names: Hans
+        given-names: Philipp
+      - family-names: Stucchi
+        given-names: Neva Maria Elisabetta
+      - family-names: Khan
+        given-names: Latif U.
+      - family-names: Saadaldin
+        given-names: Abdellatif
+      - family-names: Possenti
+        given-names: Elena
+      - family-names: Franceschin
+        given-names: Giulia
+      - family-names: Al Khasoneh
+        given-names: Samah
+      - family-names: Bonora
+        given-names: Gian Luca
+      - family-names: Dardeniz
+        given-names: Gonca
+    translators: 
+      - family-names: Iori
+        given-names: Gianluca
+      - family-names: Hans
+        given-names: Philipp
+      - family-names: Stucchi
+        given-names: Neva Maria Elisabetta
+      - family-names: Khan
+        given-names: Latif U.
+      - family-names: Saadaldin
+        given-names: Abdellatif
+      - family-names: Possenti
+        given-names: Elena
+      - family-names: Franceschin
+        given-names: Giulia
+      - family-names: Al Khasoneh
+        given-names: Samah
+      - family-names: Bonora
+        given-names: Gian Luca
+      - family-names: Dardeniz
+        given-names: Gonca
+    date-published: 2024-10-16
+    identifiers: 
+      - type: doi
+        value: 10.2139/ssrn.4989620
