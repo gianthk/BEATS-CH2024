@@ -12,7 +12,6 @@
 - The underlying data for this submission is propertary and subject to embargo according to SESAME's data policy.
 - The pipeline for reconstruction of phase-contrast SXCT images can be reproduced using the following open-source dataset from SESAME ID10-BEATS.
 
-| Dataset name                | Description             | DOI |
+| Dataset name                | Description             | DOI        |
 |:----------------------------|:------------------------|:-----------|
-| `bee_yazeed-20231001T170032.h5` | SXCT scan of a wasp performed at beamline ID10-BEATS of SESAME | 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10075277.svg)](https://doi.org/10.5281/zenodo.10075277) |
+| `bee_yazeed-20231001T170032.h5` | SXCT scan of a wasp | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10075277.svg)](https://doi.org/10.5281/zenodo.10075277) |
